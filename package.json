@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "MPageFusion": "^1.0.0",
-    "fusion-calendar": "^1.1.0"
+    "fusion-calendar": "^1.1.1"
   },
   "engines": {
     "node": ">=6"
