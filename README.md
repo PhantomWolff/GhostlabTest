@@ -1,2 +1,5 @@
 # calendar-test
-Demo for fusion calendar
+
+* `npm install`
+* `npm run dev`
+* [http://localhost:1338](http://localhost:1338)
